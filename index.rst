@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 90101-lucky3BallColor's documentation!
+Welcome to Bull fighting's documentation!
 ======================================
 
 .. toctree::
