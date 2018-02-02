@@ -4,6 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Bull fighting's documentation!
+Hello Bullfighting
 ======================================
 
 .. toctree::
